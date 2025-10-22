@@ -6,7 +6,7 @@ Passionate Computer Science student
 
 Engineering graduate seeking an entry level position to apply my technical skills and knowledge in developing innovative software solutions.
 
-*   🌍  I'm based in Belagavi
+*   🌍  I'm based in Banglore
 *   ✉️  You can contact me at [sarfarazsattar6@gmail.com](mailto:sarfarazsattar6@gmail.com)
 *   🧠  I'm learning Backend Technologies### Skills 
 <p align="left">
