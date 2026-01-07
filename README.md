@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarfaraz Sattar
 =======================================================================================================================================
 
-Passionate Computer Science student
+Passionate Computer Science Engineer
 -----------------------------------
 
 Engineering graduate seeking an entry level position to apply my technical skills and knowledge in developing innovative software solutions.
