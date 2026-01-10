@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Passionate Computer Science Engineer
 -----------------------------------
 
-Engineering graduate seeking an entry level position to apply my technical skills and knowledge in developing innovative software solutions.
+Engineering graduate seeking an nice position to apply my technical skills and knowledge in developing innovative software solutions.
 
 *   🌍  I'm based in Banglore
 *   ✉️  You can contact me at [sarfarazsattar09@gmail.com](mailto:sarfarazsattar09@gmail.com)
