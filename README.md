@@ -6,7 +6,7 @@ Passionate Computer Science Engineer
 
 Engineering graduate seeking an nice position to apply my technical skills and knowledge in developing innovative software solutions.
 
-*   🌍  I'm based in Banglore
+*   🌍  I'm based in Banglore.
 *   ✉️  You can contact me at [sarfarazsattar09@gmail.com](mailto:sarfarazsattar09@gmail.com)
 *   🧠  I'm learning Backend Technologies### Skills 
 <p align="left">
